@@ -1,0 +1,2 @@
+Esse é um exemplo para adicionar nos arquivos do repositório do curso de Git.
+
